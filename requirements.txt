@@ -1,0 +1,7 @@
+huggingface-hub
+sentence-transformers
+faiss-cpu
+streamlit
+requests
+lxml
+numpy

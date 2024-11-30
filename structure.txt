@@ -1,0 +1,23 @@
+rag_project/
+├── data/
+│   ├── raw/
+│   │   ├── 1.fb2
+│   │   ├── 2.fb2
+│   │   ├── 3.fb2
+│   │   ├── 4.fb2
+│   │   ├── 5.fb2
+│   ├── processed/
+│   │   ├── book_1.txt
+│   │   ├── book_2.txt
+│   │   ├── book_3.txt
+│   │   ├── book_4.txt
+│   │   ├── book_5.txt
+├── src/
+│   ├── preprocess.py
+│   ├── retriever.py
+│   ├── llm_pipeline.py
+│   ├── evaluate.py
+├── app/
+│   ├── main.py
+├── requirements.txt
+├── README.md
